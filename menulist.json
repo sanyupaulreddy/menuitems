@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Chinese Noodles",
+    "description": "Stir-fried noodles with vegetables and choice of meat",
+    "price_inr": 650
+  },
+  {
+    "id": 2,
+    "name": "North Indian Thali",
+    "description": "A complete Indian meal with various curries, rice, and bread",
+    "price_inr": 750
+  },
+  {
+    "id": 3,
+    "name": "South Indian Dosa",
+    "description": "Thin crepe made from rice batter, served with chutney and sambar",
+    "price_inr": 450
+  },
+  {
+    "id": 4,
+    "name": "Italian Pasta",
+    "description": "Pasta with tomato sauce, basil, and parmesan cheese",
+    "price_inr": 850
+  },
+  {
+    "id": 5,
+    "name": "Japanese Sushi",
+    "description": "Assorted sushi rolls with fresh fish and rice",
+    "price_inr": 1000
+  },
+  {
+    "id": 6,
+    "name": "Mexican Tacos",
+    "description": "Soft or hard-shell tacos with seasoned meat, lettuce, and cheese",
+    "price_inr": 550
+  },
+  {
+    "id": 7,
+    "name": "Greek Salad",
+    "description": "Salad made with fresh vegetables, olives, feta cheese, and Greek dressing",
+    "price_inr": 350
+  },
+  {
+    "id": 8,
+    "name": "French Croissant",
+    "description": "Buttery, flaky pastry often served for breakfast or as a snack",
+    "price_inr": 250
+  },
+  {
+    "id": 9,
+    "name": "Thai Curry",
+    "description": "Spicy curry with coconut milk, vegetables, and choice of meat",
+    "price_inr": 950
+  },
+  {
+    "id": 10,
+    "name": "American Burger",
+    "description": "Juicy beef patty served on a bun with lettuce, tomato, and cheese",
+    "price_inr": 650
+  }
+]
